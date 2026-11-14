@@ -53,4 +53,19 @@ my-developer-journey/
 ├── Java/
 ├── Python/
 ├── Projects/
-└── README
+└── README.md
+```
+
+## My Principles
+
+- Learn by understanding, not just memorizing.
+- Practice by writing code every day.
+- Build real projects with what I learn.
+- Document my progress and mistakes.
+- Keep learning and improving.
+
+## My Goal
+
+To become a skilled backend developer who can design, build, and maintain reliable software services.
+
+**One step at a time, one line of code at a time.**
